@@ -1,4 +1,4 @@
 # hello-world
 Sample repository
 
-Here am making changes to this repository to understand github.
+Here am making changes to this branch repository to understand github.
